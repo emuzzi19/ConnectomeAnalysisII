@@ -16,10 +16,9 @@ The continuation of Connectome Analysis project involves exploring the structura
 
 ## Project Structure
 
-    data/: Contains the dataset files.
-    scripts/: Python scripts for data processing and analysis.
-    requirements.txt: Lists the Python dependencies for the project.
-    README.md: This README file.
+- ConnectomeAnalysisReport: Contains written report and visualization of network
+- ConnectomeAnalysisCode: Python scripts for data processing and analysis.
+- README.md: This README file.
 
 ## Data
 
